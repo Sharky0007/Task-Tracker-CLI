@@ -17,11 +17,11 @@ This is a java based CLI project to manage tasks. User can perform CRUD operatio
 4. run the commands to get the result.
 
 ## Commands:
-1. **Add task:** java TaskCLI.java add "add grocery4"
-2. **Update task:** java TaskCLI.java update 1 "Grocery done"
-3. **Delete task:** java TaskCLI.java delete 1
-4. **Update status of task:** java TaskCLI.java updateStatus 2 DONE
-5. **Get all tasks:** java TaskCLI.java list
+1. **Add task:**   java TaskCLI.java add "add grocery4"
+2. **Update task:**   java TaskCLI.java update 1 "Grocery done"
+3. **Delete task:**   java TaskCLI.java delete 1
+4. **Update status of task:**   java TaskCLI.java updateStatus 2 DONE
+5. **Get all tasks:**   java TaskCLI.java list
 
 
 # TODO:
