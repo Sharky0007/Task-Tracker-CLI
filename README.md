@@ -1,7 +1,7 @@
 # Task-Tracker-CLI
 
 ## About this Project:
-This is a java based CLI project, which helps to manupulate tasks in a JSON fromat in a file(task.json).
+This is a java based CLI project to manage tasks. User can perform CRUD operation from terminal.
 
 ## Features:
 1. User can add a task.
