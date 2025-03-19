@@ -12,14 +12,14 @@ This is a java based CLI project to manage tasks. User can perform CRUD operatio
 
 ## How to use it:
 1. Clone the project.
-   ```bash
-   git clone 
-   ```
+```bash
+git clone https://github.com/Sharky0007/Task-Tracker-CLI.git
+ ```
 2. Compile the code.
-  ```bash
-    javac *.java to compile the code.
-  ```
-5. run the commands to get the result.
+```bash
+ javac *.java
+ ```
+3. run the commands to get the result.
 
 ## Commands:
 ```bash
