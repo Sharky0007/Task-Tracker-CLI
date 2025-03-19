@@ -24,5 +24,5 @@ This is a java based CLI project, which helps to manupulate tasks in a JSON from
 5. Get all tasks: java TaskCLI.java list
 
 
-#TODO:
+# TODO:
 Get List of task by status.
